@@ -1,0 +1,17 @@
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\KullanıcıGirişEkranı.exe.config
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\KullanıcıGirişEkranı.exe
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\KullanıcıGirişEkranı.pdb
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\EntityFramework.dll
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\EntityFramework.xml
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.csproj.AssemblyReference.cache
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.Form1.resources
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.Properties.Resources.resources
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.csproj.GenerateResource.cache
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.csproj.CoreCompileInputs.cache
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.csproj.CopyComplete
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.exe
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.pdb
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.GirisBasarili.resources
+C:\Users\Turhan Göksu\source\repos\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.ŞifreSıfırlama.resources

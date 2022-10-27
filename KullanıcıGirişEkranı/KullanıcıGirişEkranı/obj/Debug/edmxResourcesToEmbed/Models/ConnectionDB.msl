@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KullanıcıGirişEkranıModelStoreContainer" CdmEntityContainer="KullanıcıGirişEkranıEntitiesConnectionDB">
+    <EntitySetMapping Name="KullanıcıGirişTablo">
+      <EntityTypeMapping TypeName="KullanıcıGirişEkranıModel.KullanıcıGirişTablo">
+        <MappingFragment StoreEntitySet="KullanıcıGirişTablo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="E_posta" ColumnName="E-posta" />
+          <ScalarProperty Name="Şifre" ColumnName="Şifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
